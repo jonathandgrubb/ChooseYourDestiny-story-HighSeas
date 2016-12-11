@@ -11,7 +11,7 @@
                 "name" : "A Voyage",
                 "is_first_chapter" : true,
                 "text" : "You've been at sea for months searching for a mythical creature. As you sit up in the crows nest there's nothing but a blue smooth water as far as you can see. Suddenly, you see something appear just on the horizon off the port bow. It might be smoke.",
-                "pic_path" : "auf-hoher-see.jpg",
+                "pic_path" : "resources/auf-hoher-see.jpg",
                 "choices" : [
                     {
                         "chapter_id" : "chapter02",

@@ -1,10 +1,10 @@
 {
     "story" : {
         "id" : "story02",
-        "name" : "Night At The Forgotten Castle",
+        "name" : "High Seas",
         "pic_path" : "resources/title.jpg",
         "rating" :  "G",
-        "summary" : "a man stumbles onto a mysterious castle",
+        "summary" : "adventure on the high seas",
         "chapters" : [
             {
                 "id" : "chapter01",

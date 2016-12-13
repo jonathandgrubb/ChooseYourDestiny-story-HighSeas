@@ -26,7 +26,7 @@
             {
                 "id" : "chapter02",
                 "name" : "Ignore The Smoke",
-                "text" : "You tell the captain and just as you thought, he screams, \"Them's the locals, lad! Keep looking for the beast\"\n\nYou go back to looking. Maybe you'll see something interesting again tomorrow."
+                "text" : "You tell the captain and just as you thought, he screams, \"[[name]]! Them's the locals, lad! Keep looking for the beast\"\n\nYou go back to looking. Maybe you'll see something interesting again tomorrow."
             },
             {
                 "id" : "chapter03",
